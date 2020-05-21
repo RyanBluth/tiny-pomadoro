@@ -1,0 +1,7 @@
+{
+    "board": "attiny:avr:ATtinyX5",
+    "configuration": "cpu=attiny85,clock=internal8",
+    "programmer": "Arduino as ISP",
+    "sketch": "tiny-pomadoro.ino",
+    "port": "/dev/ttyACM1"
+}
